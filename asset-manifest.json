@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactlivewebsite/static/css/main.ed1aaf1d.css",
+    "main.js": "/reactlivewebsite/static/js/main.6ae623e1.js",
+    "static/js/453.64512fd7.chunk.js": "/reactlivewebsite/static/js/453.64512fd7.chunk.js",
+    "static/media/images7.jpg": "/reactlivewebsite/static/media/images7.65be238046502bc7e180.jpg",
+    "static/media/images10.jpg": "/reactlivewebsite/static/media/images10.3c3ea19dedd61f3d4017.jpg",
+    "static/media/images13.jpg": "/reactlivewebsite/static/media/images13.4e4e729031f5786ce256.jpg",
+    "static/media/images6.png": "/reactlivewebsite/static/media/images6.be8836b9e9ebaac9d11a.png",
+    "static/media/images12.jpg": "/reactlivewebsite/static/media/images12.0b5a80b590c0d984da93.jpg",
+    "index.html": "/reactlivewebsite/index.html",
+    "main.ed1aaf1d.css.map": "/reactlivewebsite/static/css/main.ed1aaf1d.css.map",
+    "main.6ae623e1.js.map": "/reactlivewebsite/static/js/main.6ae623e1.js.map",
+    "453.64512fd7.chunk.js.map": "/reactlivewebsite/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed1aaf1d.css",
+    "static/js/main.6ae623e1.js"
+  ]
+}
